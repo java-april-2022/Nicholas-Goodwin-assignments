@@ -1,3 +1,5 @@
+package Week1.cafejava;
+
 import java.lang.reflect.Method;
 
 public class CafeJava {

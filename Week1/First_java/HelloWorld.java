@@ -1,3 +1,5 @@
+package Week1.First_java;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("My name is Coding Dojo");
