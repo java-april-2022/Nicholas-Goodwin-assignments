@@ -41,6 +41,6 @@ public class CafeUtil {
         }
         System.out.println("");
     }// Used https://docs.oracle.com/javase/tutorial/java/data/numberformat.html for output formatting. 
-}
+}// have not added last ninja bonus.
 
 
