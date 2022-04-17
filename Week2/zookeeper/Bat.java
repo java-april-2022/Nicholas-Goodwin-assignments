@@ -13,7 +13,7 @@ public class Bat extends Mammal {
     }
 
     void eatHumans(){
-        System.out.println("The bat enjoys a human snack, it loses 25 energy though!");
+        System.out.println("The bat enjoys a human snack, it gains 25 energy!");
         energyLevel += 25;
         displayEnergy();
     }
