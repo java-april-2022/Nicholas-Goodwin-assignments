@@ -16,6 +16,6 @@ public class DaikichiController {
 	}
 	@RequestMapping("/tomorrow")
 	public String tommorrow() {
-		return "Tomorrow an oppurtunity will arise, so be sure to be open to new ideas!";
+		return "Tomorrow an oppurtunity will arise, so be sure to be open to new ideas!!!";
 	}
 }
