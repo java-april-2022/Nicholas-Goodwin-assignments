@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.container {
+	margin: 5px;
+	padding: 5px;
+	font-family: Times New Roman;
+	background-color: purple;
+}
+
+h1 {
+	color: blue;
+}
+.table {
+	background-color: white;
+	margin: 40px;
+	width: 85%;
+}
